@@ -15,6 +15,7 @@ class Deciduous extends Tree {
     this.name = name
   }
     static definition() {
+     ' A tree is a perennial plant with an elongated stem, or trunk, supportingbranches and leaves. Deciduous trees shed their leaves annually'
 }
   
 }
