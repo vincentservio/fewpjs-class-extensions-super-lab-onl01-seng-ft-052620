@@ -24,7 +24,7 @@ class Evergreen extends Tree {
     this.name = name
   }
     static definition() {
-    return ''
+    return 'Evergreens keep their leaves all year round.'
 }
   
   
